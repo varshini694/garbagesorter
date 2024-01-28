@@ -7,7 +7,7 @@ from tensorflow.keras.applications.mobilenet_v2 import MobileNetV2,preprocess_in
 
 import os
 
-model_path = "/Users/varshini/desktop/gd/prediction_model/keras_model.h5"
+model_path = "keras_model.h5"
 
 if os.path.exists(model_path):
     print(f"Model file found at: {os.path.abspath(model_path)}")
