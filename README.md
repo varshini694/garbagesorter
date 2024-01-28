@@ -1,0 +1,2 @@
+This project comes under both the domains, sustainable environment and smart city. But the topic this project was based upon was about creating an awareness amongst the general audience. 
+This project cant be impelemented in schools to teach kids about the classification of their everyday item's degradation quality. By implementing sensors and real time scanners it can also work as an implementation of smart dustbins.
